@@ -119,16 +119,6 @@ Week 50:Sequences, Time Series and Prediction
 Week 51:Deep learning using TensorFlow 2.0
 
 
-Join the LWM Community's Discord server: https://discord.gg/WRk2uva5 and go to "INITIATIVES" Category and then go to "#ml-ai-deep-learning" channel to get access to Google Docs with all the course links and Accounts and passwords.
-
-
-Also, we have a Google Excel sheet. If you are dedicated enough, you will surely write 51 blogs properly. 
-
-![image](https://user-images.githubusercontent.com/57193846/201539804-406219d7-d9d6-410b-a7fe-5b25445d756b.png)
-
-You can add your name and then complete 51 blogs gradually and share the link here.
-
-
 
 # Writing Blogs
 You can write yours blogs at Dev.to: https://dev.to/ (My suggestion is to write in Dev.to)
