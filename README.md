@@ -124,7 +124,7 @@ Week 51:Deep learning using TensorFlow 2.0
 You can write yours blogs at Dev.to: https://dev.to/ (My suggestion is to write in Dev.to)
 
 Also, you can use Medium. Do you know one interesting fact?
-One of our Alumni : Imran Sefat (@ImranSefat) vaia got 2 Remote job at Australia . So, it's up to you know. 
+One of my senior : Imran Sefat (@ImranSefat) vaia got 2 Remote job at Australia . So, it's up to you know. 
 
 
 # How to learn and post?
