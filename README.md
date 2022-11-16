@@ -4,39 +4,40 @@ An Initiative where you can learn ML, AI &amp; Deep learning from scratch
 
 # Week wise plan:
 
-Week 1:Basic Python
+Week 1 (December 3 - December 9) : Basic Python
 
-Week 2: NumPy
+Week 2 (December 10 - December 16) : NumPy
 
-Week 3:Pandas
+Week 3 (December 17 - December 23) : Pandas
 
-Week 4:Matplotlib
-
-
-Week 5:Plotly and Cufflinks
-
-Week 6:Seaborn
-
-Week 7:Python for data visualization
-
-Week 8:Data Capstone Project
+Week 4 (December 24 - December 30) : Matplotlib
 
 
-Week 9:Predictive Models
+Week 5 (December 31- January 6) : Plotly and Cufflinks
 
-Week 10:Intro to ML
+Week 6 (January 7 - January 13) : Seaborn
 
+Week 7 (January 14 - January 20) : Python for data visualization
 
-Week 11:Supervised ML
-
-
-Week 12:Advanced Algorithms
+Week 8 (January 21 - January 27) : Data Capstone Project
 
 
-Week 13:Unsupervised ML
+Week 9 (January 28 - February 3) : Predictive Models
+
+Week 10 (Feb 4 - Feb 10) : Intro to ML
+
+
+Week 11 ( Feb 11 - Feb 17) : Supervised ML
+
+
+Week 12 (Feb 18 - Feb 24) : Advanced Algorithms
+
+
+Week 13 (Feb 25 - March 3) : Unsupervised ML
 
 
 Week 14:Linear regression
+
 Week 15:Cross validation and Bias trade off
 
 Week 16:Logistic regression
