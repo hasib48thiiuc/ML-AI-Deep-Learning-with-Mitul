@@ -47,6 +47,7 @@ Week 17 (March 25 - March 31) :K nearest neighbors
 
 
 Week 18 (April 1 - April 7) : Decision tree and random forest
+
 Week 19 (April 8 - April 14) : Support vector machines
 
 Week 20 (April 15 - April 21) : K means clustering
