@@ -4,7 +4,7 @@ An Initiative where you can learn ML, AI &amp; Deep learning from scratch
 
 # Week wise plan:
 
-Week 1 (December 3 - December 9) : Basic Python
+Week 1 (December 3 - December 9) : Basics of Python
 
 Week 2 (December 10 - December 16) : NumPy
 
